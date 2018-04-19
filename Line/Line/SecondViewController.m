@@ -31,8 +31,13 @@
 //    SecondViewController *svc = [[SecondViewController alloc] init];
 //    [self.navigationController popViewControllerAnimated:YES];
     
-    ViewController *vc = [[NSClassFromString(@"ViewController") alloc] init];
-    [self presentViewController:vc animated:YES completion:nil];
+//    ViewController *vc = [[NSClassFromString(@"ViewController") alloc] init];
+//    [self presentViewController:vc animated:YES completion:nil];
+//    NSString *web_url = @"http://localhost:63342/h5Demo/0329/test_web.html";
+    NSString *web_string = @"http://baidu.com";
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:web_string] options:nil completionHandler:^(BOOL success) {
+        
+    }];
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];

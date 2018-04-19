@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C0112AE120878C5400A434A9 /* 0_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112ADF20878C4A00A434A9 /* 0_1.jpg */; };
+		C0112AE220878C5700A434A9 /* 0_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112AE020878C4A00A434A9 /* 0_2.jpg */; };
+		C0112AE320878C5B00A434A9 /* 0_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112ADC20878C4A00A434A9 /* 0_3.jpg */; };
+		C0112AE420878C5D00A434A9 /* 0_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112ADB20878C4A00A434A9 /* 0_4.jpg */; };
+		C0112AE520878C6000A434A9 /* 0_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112ADD20878C4A00A434A9 /* 0_5.jpg */; };
+		C0112AE620878C6300A434A9 /* 0_6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0112ADE20878C4A00A434A9 /* 0_6.jpg */; };
+		C044FCB4207A1180000AE466 /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C044FCB3207A1180000AE466 /* JavaScriptCore.framework */; };
+		C044FCB6207A11D1000AE466 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C044FCB5207A11D0000AE466 /* UIKit.framework */; };
+		C044FCB8207A11DB000AE466 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C044FCB7207A11DB000AE466 /* Foundation.framework */; };
 		C0CA4A0C206A7F9500A6D8A8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C0CA4A0B206A7F9500A6D8A8 /* AppDelegate.m */; };
 		C0CA4A0F206A7F9500A6D8A8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0CA4A0E206A7F9500A6D8A8 /* ViewController.m */; };
 		C0CA4A12206A7F9500A6D8A8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0CA4A10206A7F9500A6D8A8 /* Main.storyboard */; };
@@ -17,6 +26,7 @@
 		C0CA4A27206A7F9500A6D8A8 /* LineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C0CA4A26206A7F9500A6D8A8 /* LineTests.m */; };
 		C0CA4A32206A7F9500A6D8A8 /* LineUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C0CA4A31206A7F9500A6D8A8 /* LineUITests.m */; };
 		C0CA4A41206A801100A6D8A8 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C0CA4A40206A801100A6D8A8 /* SecondViewController.m */; };
+		C0D719672074D8BD001BED5F /* CTJsonKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C0D719662074D8BD001BED5F /* CTJsonKit.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +47,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C0112ADB20878C4A00A434A9 /* 0_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_4.jpg; path = ../../../../../../../Desktop/0_4.jpg; sourceTree = "<group>"; };
+		C0112ADC20878C4A00A434A9 /* 0_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_3.jpg; path = ../../../../../../../Desktop/0_3.jpg; sourceTree = "<group>"; };
+		C0112ADD20878C4A00A434A9 /* 0_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_5.jpg; path = ../../../../../../../Desktop/0_5.jpg; sourceTree = "<group>"; };
+		C0112ADE20878C4A00A434A9 /* 0_6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_6.jpg; path = ../../../../../../../Desktop/0_6.jpg; sourceTree = "<group>"; };
+		C0112ADF20878C4A00A434A9 /* 0_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_1.jpg; path = ../../../../../../../Desktop/0_1.jpg; sourceTree = "<group>"; };
+		C0112AE020878C4A00A434A9 /* 0_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 0_2.jpg; path = ../../../../../../../Desktop/0_2.jpg; sourceTree = "<group>"; };
+		C044FCB3207A1180000AE466 /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		C044FCB5207A11D0000AE466 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C044FCB7207A11DB000AE466 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C0CA4A07206A7F9500A6D8A8 /* Line.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Line.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0CA4A0A206A7F9500A6D8A8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C0CA4A0B206A7F9500A6D8A8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -56,6 +75,8 @@
 		C0CA4A33206A7F9500A6D8A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C0CA4A3F206A801100A6D8A8 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		C0CA4A40206A801100A6D8A8 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		C0D719652074D8BD001BED5F /* CTJsonKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CTJsonKit.h; sourceTree = "<group>"; };
+		C0D719662074D8BD001BED5F /* CTJsonKit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CTJsonKit.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +84,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C044FCB8207A11DB000AE466 /* Foundation.framework in Frameworks */,
+				C044FCB6207A11D1000AE466 /* UIKit.framework in Frameworks */,
+				C044FCB4207A1180000AE466 /* JavaScriptCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +107,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		C0112AD920878BDC00A434A9 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				C0112ADA20878BFE00A434A9 /* images */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
+		C0112ADA20878BFE00A434A9 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C0112ADF20878C4A00A434A9 /* 0_1.jpg */,
+				C0112AE020878C4A00A434A9 /* 0_2.jpg */,
+				C0112ADC20878C4A00A434A9 /* 0_3.jpg */,
+				C0112ADB20878C4A00A434A9 /* 0_4.jpg */,
+				C0112ADD20878C4A00A434A9 /* 0_5.jpg */,
+				C0112ADE20878C4A00A434A9 /* 0_6.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		C044FCB2207A1180000AE466 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C044FCB7207A11DB000AE466 /* Foundation.framework */,
+				C044FCB5207A11D0000AE466 /* UIKit.framework */,
+				C044FCB3207A1180000AE466 /* JavaScriptCore.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		C0CA49FE206A7F9500A6D8A8 = {
 			isa = PBXGroup;
 			children = (
@@ -90,6 +145,7 @@
 				C0CA4A25206A7F9500A6D8A8 /* LineTests */,
 				C0CA4A30206A7F9500A6D8A8 /* LineUITests */,
 				C0CA4A08206A7F9500A6D8A8 /* Products */,
+				C044FCB2207A1180000AE466 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,6 +162,7 @@
 		C0CA4A09206A7F9500A6D8A8 /* Line */ = {
 			isa = PBXGroup;
 			children = (
+				C0112AD920878BDC00A434A9 /* resource */,
 				C0CA4A0A206A7F9500A6D8A8 /* AppDelegate.h */,
 				C0CA4A0B206A7F9500A6D8A8 /* AppDelegate.m */,
 				C0CA4A0D206A7F9500A6D8A8 /* ViewController.h */,
@@ -118,6 +175,8 @@
 				C0CA4A13206A7F9500A6D8A8 /* Line.xcdatamodeld */,
 				C0CA4A3F206A801100A6D8A8 /* SecondViewController.h */,
 				C0CA4A40206A801100A6D8A8 /* SecondViewController.m */,
+				C0D719652074D8BD001BED5F /* CTJsonKit.h */,
+				C0D719662074D8BD001BED5F /* CTJsonKit.m */,
 			);
 			path = Line;
 			sourceTree = "<group>";
@@ -246,8 +305,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0112AE320878C5B00A434A9 /* 0_3.jpg in Resources */,
+				C0112AE220878C5700A434A9 /* 0_2.jpg in Resources */,
+				C0112AE520878C6000A434A9 /* 0_5.jpg in Resources */,
+				C0112AE620878C6300A434A9 /* 0_6.jpg in Resources */,
 				C0CA4A1A206A7F9500A6D8A8 /* LaunchScreen.storyboard in Resources */,
 				C0CA4A17206A7F9500A6D8A8 /* Assets.xcassets in Resources */,
+				C0112AE420878C5D00A434A9 /* 0_4.jpg in Resources */,
+				C0112AE120878C5400A434A9 /* 0_1.jpg in Resources */,
 				C0CA4A12206A7F9500A6D8A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,6 +339,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C0CA4A41206A801100A6D8A8 /* SecondViewController.m in Sources */,
+				C0D719672074D8BD001BED5F /* CTJsonKit.m in Sources */,
 				C0CA4A0F206A7F9500A6D8A8 /* ViewController.m in Sources */,
 				C0CA4A15206A7F9500A6D8A8 /* Line.xcdatamodeld in Sources */,
 				C0CA4A1D206A7F9500A6D8A8 /* main.m in Sources */,
